@@ -1,0 +1,23 @@
+.navbar-collapse{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+nav a{
+    text-decoration: none !important;
+    margin-right: 25px;
+    font-size: xx-large;
+    color: rgb(179, 190, 178);
+}
+.navbar{
+    background-color: rgb(64, 91, 83);
+}
+.card{
+    border-color: black;
+    border-radius: 20px;
+    background-color: rgb(129, 140, 143);
+}
+.card m-5{
+   background-color: darkgray;
+  
+}
